@@ -77,4 +77,4 @@ These can broadly be categorized into:
 
 ---
 
-✅ This cheat sheet provides a **quick reference** for choosing the right Oracle SQL data type.
+✅ This cheat sheet provides a **quick reference** for choosing the right SQL data type.

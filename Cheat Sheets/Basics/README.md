@@ -30,7 +30,7 @@ It’s designed to help beginners and intermediate learners **understand and wri
 
 ## How to Use This Folder
 
-- Use this folder as a **study guide or quick cheat sheet** while learning or working with Oracle SQL.  
+- Use this folder as a **study guide or quick cheat sheet** while learning or working with SQL.  
 
 ---
 

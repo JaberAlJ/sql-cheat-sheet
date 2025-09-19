@@ -1,6 +1,6 @@
 # Data Manipulation Language (DML) 🛠️
 
-This folder contains cheat sheets for **Oracle SQL DML statements**, which are used to **manipulate data** in database tables.  
+This folder contains cheat sheets for **SQL DML statements**, which are used to **manipulate data** in database tables.  
 
 The cheat sheets include **syntax and examples** for easy reference.
 

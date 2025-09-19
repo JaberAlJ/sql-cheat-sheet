@@ -1,6 +1,6 @@
 # SQL Operators ⚙️
 
-Operators in Oracle SQL are special symbols or keywords used to perform operations on values, columns, and expressions.  
+Operators in SQL are special symbols or keywords used to perform operations on values, columns, and expressions.  
 They are categorized into:
 
 - **Arithmetic Operators**
@@ -81,7 +81,7 @@ The `LIKE` operator is used for **pattern matching** in string comparisons.
 
 ## 6. Operator Precedence 🧮
 
-When multiple operators are used in an expression, Oracle SQL follows a **precedence order** (priority).  
+When multiple operators are used in an expression, SQL follows a **precedence order** (priority).  
 
 From **highest to lowest**:
 
@@ -105,4 +105,4 @@ From **highest to lowest**:
 
 ---
 
-✅ This cheat sheet provides a **quick lookup** for the most common Oracle SQL operators.
+✅ This cheat sheet provides a **quick lookup** for the most common SQL operators.

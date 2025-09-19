@@ -116,4 +116,4 @@ Categories:
 
 ---
 
-✅ This cheat sheet provides a **quick reference** for Oracle’s single-row and multi-row (aggregate) functions.
+✅ This cheat sheet provides a **quick reference** for single-row and multi-row (aggregate) functions.

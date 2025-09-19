@@ -23,24 +23,28 @@ Each topic has its own dedicated Markdown file (`.md`) inside the `Cheat Sheets/
 
 ```bash
 ├── 📁 Cheat Sheets/
-│   └── 📁 Basics/
+│   ├── 📁 Basics/
 │   │   ├── 📖 README.md
 │   │   ├── 📝 data-types.md
 │   │   ├── 📝 functions.md
 │   │   └── 📝 operators.md
-│   └── 📁 DDL/
+│   ├── 📁 DCL/
+│   │   ├── 📖 README.md
+│   │   ├── 📝 grant.md
+│   │   └── 📝 revoke.md
+│   ├── 📁 DDL/
 │   │   ├── 📖 README.md
 │   │   ├── 📝 alter.md
 │   │   ├── 📝 create.md
 │   │   ├── 📝 drop.md
 │   │   └── 📝 truncate.md
-│   └── 📁 DML/
+│   ├── 📁 DML/
 │   │   ├── 📖 README.md
 │   │   ├── 📝 delete.md
 │   │   ├── 📝 insert.md
 │   │   ├── 📝 merge.md
 │   │   └── 📝 update.md
-│   └── 📁 DQL/
+│   ├── 📁 DQL/
 │   │   ├── 📖 README.md
 │   │   ├── 📝 filter.md
 │   │   ├── 📝 group.md
@@ -60,19 +64,22 @@ Each topic has its own dedicated Markdown file (`.md`) inside the `Cheat Sheets/
 Navigate to the specific SQL cheat sheets using the links below:
 
 * ### [Basics](Cheat%20Sheets/Basics/README.md) 🔑
-  * **Quick reference** to fundamental SQL concepts, operators, data types, and built-in functions.
+    * **Quick reference** to fundamental SQL concepts, operators, data types, and built-in functions.
+
+* ### [DCL (Data Control Language)](Cheat%20Sheets/DCL/README.md) 🔐
+    * Commands used to **control access and permissions** in the database.
 
 * ### [DDL (Data Definition Language)](Cheat%20Sheets/DDL/README.md) 🏗️
-  * Commands for creating, altering, dropping, and managing database objects.
+    * Commands for **creating, altering, dropping, and managing** database objects.
 
 * ### [DML (Data Manipulation Language)](Cheat%20Sheets/DML/README.md) ✍️
-    * Commands for inserting, updating, deleting, and managing data inside tables.
+    * Commands for **inserting, updating, deleting, and managing data** inside tables.
 
 * ### [DQL (Data Query Language)](Cheat%20Sheets/DQL/README.md) 🔍 
-    * Commands for retrieving data using selecting, filtering, sorting, and grouping.
+    * Commands for **retrieving data using selecting, filtering, sorting, and grouping**.
 
 * ### [TCL (Transaction Control Language)](Cheat%20Sheets/TCL/README.md) 🔄 
-    * Commands for managing transactions: commit, rollback, savepoint. 
+    * Commands for **managing transactions: commit, rollback, savepoint**. 
 
 ---
 
