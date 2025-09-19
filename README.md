@@ -1,7 +1,7 @@
 # SQL Cheat Sheet 📘
 
-![GitHub last commit](https://img.shields.io/github/last-commit/JaberAlJ/oracle-sql-cheatsheet)
-![GitHub stars](https://img.shields.io/github/stars/JaberAlJ/oracle-sql-cheatsheet?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/JaberAlJ/sql-cheat-sheet)
+![GitHub stars](https://img.shields.io/github/stars/JaberAlJ/sql-cheat-sheet?style=social)
 
 This repository is a comprehensive collection of **SQL syntax, statements, and commands**.  
 It’s designed to be a **quick reference** for developers, students, and database administrators working with Oracle Database.
@@ -22,9 +22,22 @@ The repository is organized into logical sections to make it easy to find the SQ
 Each topic has its own dedicated Markdown file (`.md`) inside the `Cheat Sheets/` directory.
 
 ```bash
-├── Cheat Sheets/
-└── README.md
+├── 📁 Cheat Sheets/
+│   └── 📁 Basics/
+│       ├── 📖 README.md
+│       ├── 📝 data-types.md
+│       ├── 📝 functions.md
+│       └── 📝 operators.md
+└── 📖 README.md
 ```
+
+---
+
+## 📝 Table of Contents
+Navigate to the specific SQL cheat sheets using the links below:
+
+* ### [Basics](Cheat%20Sheets/Basics/README.md) 🏗️
+  * **Quick reference** to fundamental SQL concepts, operators, data types, and built-in functions.
 
 ---
 
