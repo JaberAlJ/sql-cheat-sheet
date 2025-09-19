@@ -40,6 +40,9 @@ Navigate to the specific SQL cheat sheets using the links below:
 * ### [DQL (Data Query Language)](Cheat%20Sheets/DQL/README.md) 🔍 
     * Commands for **retrieving data using selecting, filtering, sorting, and grouping**.
 
+* ### [Extras](Cheat%20Sheets/Extras/README.md) 🔍 
+    * additional resources to help you **write better, faster, and more reliable SQL**.
+
 * ### [SQL Joins](Cheat%20Sheets/Joins/README.md) 📌 
     * Commands used to combine rows from **two or more tables** based on related columns.
 
@@ -112,6 +115,12 @@ Each topic has its own dedicated Markdown file (`.md`) inside the `Cheat Sheets/
 │   │   ├── 📝 group.md
 │   │   ├── 📝 select.md
 │   │   └── 📝 sort.md
+│   ├── 📁 Extras/
+│   │   ├── 📖 README.md
+│   │   ├── 📝 best-practices.md
+│   │   ├── 📝 common-errors.md
+│   │   ├── 📝 performance-tips.md
+│   │   └── 📝 shortcuts.md
 │   ├── 📁 Joins/
 │   │   ├── 📖 README.md
 │   │   ├── 📝 cross-join.md
