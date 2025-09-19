@@ -50,6 +50,12 @@ Each topic has its own dedicated Markdown file (`.md`) inside the `Cheat Sheets/
 │   │   ├── 📝 group.md
 │   │   ├── 📝 select.md
 │   │   └── 📝 sort.md
+│   ├── 📁 Joins/
+│   │   ├── 📖 README.md
+│   │   ├── 📝 cross-join.md
+│   │   ├── 📝 inner-join.md
+│   │   ├── 📝 outer-join.md
+│   │   └── 📝 self-join.md
 │   └── 📁 TCL/
 │       ├── 📖 README.md
 │       ├── 📝 commit.md
@@ -77,6 +83,9 @@ Navigate to the specific SQL cheat sheets using the links below:
 
 * ### [DQL (Data Query Language)](Cheat%20Sheets/DQL/README.md) 🔍 
     * Commands for **retrieving data using selecting, filtering, sorting, and grouping**.
+
+* ### [SQL Joins](Cheat%20Sheets/Joins/README.md) 📌 
+    * Commands used to combine rows from **two or more tables** based on related columns.
 
 * ### [TCL (Transaction Control Language)](Cheat%20Sheets/TCL/README.md) 🔄 
     * Commands for **managing transactions: commit, rollback, savepoint**. 
