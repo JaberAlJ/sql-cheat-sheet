@@ -26,8 +26,12 @@ It is designed as a **quick reference guide** with examples.
 
 ---
 
-**Recommended Tips:**
+**Quick Tips:**
 - Always **back up data** before using DROP or TRUNCATE.
 - Use `ALTER` carefully; dropping columns or constraints may result in data loss.
 - Use sequences for auto-generated IDs.
 - For views, use `CREATE OR REPLACE` instead of ALTER.
+
+---
+
+This folder serves as a **quick reference** for developers and students working with SQL.

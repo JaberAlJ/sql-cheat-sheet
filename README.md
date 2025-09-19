@@ -29,11 +29,18 @@ Each topic has its own dedicated Markdown file (`.md`) inside the `Cheat Sheets/
 │   │   ├── 📝 functions.md
 │   │   └── 📝 operators.md
 │   └── 📁 DDL/
+│   │   ├── 📖 README.md
+│   │   ├── 📝 alter.md
+│   │   ├── 📝 create.md
+│   │   ├── 📝 drop.md
+│   │   └── 📝 truncate.md
+│   └── 📁 DML/
 │       ├── 📖 README.md
-│       ├── 📝 alter.md
-│       ├── 📝 create.md
-│       ├── 📝 drop.md
-│       └── 📝 truncate.md
+│       ├── 📝 delete.md
+│       ├── 📝 insert.md
+│       ├── 📝 merge.md
+│       ├── 📝 select.md
+│       └── 📝 update.md
 └── 📖 README.md
 ```
 
@@ -47,6 +54,9 @@ Navigate to the specific SQL cheat sheets using the links below:
 
 * ### [DDL (Data Definition Language)](Cheat%20Sheets/DDL/README.md) 🏗️
   * Commands for creating, altering, dropping, and managing database objects.
+
+* ### [DML (Data Manipulation Language)](Cheat%20Sheets/DML/dml.md) ✍️
+    * Commands for selecting, inserting, updating, deleting, and managing data inside tables.
 
 ---
 
