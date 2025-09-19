@@ -24,10 +24,16 @@ Each topic has its own dedicated Markdown file (`.md`) inside the `Cheat Sheets/
 ```bash
 ├── 📁 Cheat Sheets/
 │   └── 📁 Basics/
+│   │   ├── 📖 README.md
+│   │   ├── 📝 data-types.md
+│   │   ├── 📝 functions.md
+│   │   └── 📝 operators.md
+│   └── 📁 DDL/
 │       ├── 📖 README.md
-│       ├── 📝 data-types.md
-│       ├── 📝 functions.md
-│       └── 📝 operators.md
+│       ├── 📝 alter.md
+│       ├── 📝 create.md
+│       ├── 📝 drop.md
+│       └── 📝 truncate.md
 └── 📖 README.md
 ```
 
@@ -36,8 +42,11 @@ Each topic has its own dedicated Markdown file (`.md`) inside the `Cheat Sheets/
 ## 📝 Table of Contents
 Navigate to the specific SQL cheat sheets using the links below:
 
-* ### [Basics](Cheat%20Sheets/Basics/README.md) 🏗️
+* ### [Basics](Cheat%20Sheets/Basics/README.md) 🔑
   * **Quick reference** to fundamental SQL concepts, operators, data types, and built-in functions.
+
+* ### [DDL (Data Definition Language)](Cheat%20Sheets/DDL/README.md) 🏗️
+  * Commands for creating, altering, dropping, and managing database objects.
 
 ---
 
