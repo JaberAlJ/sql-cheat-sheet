@@ -19,6 +19,9 @@ Each section is self-contained and focuses on a specific SQL topic.
 ## 📝 Table of Contents
 Navigate to the specific SQL cheat sheets using the links below:
 
+* ### [Advanced](Cheat%20Sheets/Advanced/README.md) 🔑
+    * **Advanced SQL concepts and techniques** for querying, optimizing, and managing data efficiently.
+
 * ### [Basics](Cheat%20Sheets/Basics/README.md) 🔑
     * **Quick reference** to fundamental SQL concepts, operators, data types, and built-in functions.
 
@@ -64,6 +67,16 @@ Each topic has its own dedicated Markdown file (`.md`) inside the `Cheat Sheets/
 
 ```bash
 ├── 📁 Cheat Sheets/
+│   ├── 📁 Advanced/
+│   │   ├── 📖 README.md
+│   │   ├── 📝 analytic-functions.md
+│   │   ├── 📝 hierarchical-queries.md
+│   │   ├── 📝 indexing.md
+│   │   ├── 📝 sequences.md
+│   │   ├── 📝 set-operators.md
+│   │   ├── 📝 subqueries.md
+│   │   ├── 📝 synonyms.md
+│   │   └── 📝 views.md
 │   ├── 📁 Basics/
 │   │   ├── 📖 README.md
 │   │   ├── 📝 data-types.md
