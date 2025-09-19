@@ -188,4 +188,24 @@ WHERE department_id = (
 
 ---
 
+## 8. Limiting Rows (Top N Records)
+
+**Syntax:**
+
+```sql
+SELECT column1, column2, ...
+FROM table_name
+FETCH FIRST n ROWS ONLY;
+```
+
+**Example:**
+
+```sql
+SELECT *
+FROM employees
+FETCH FIRST 5 ROWS ONLY;
+```
+
+---
+
 This cheat sheet provides **syntax and examples** for common `SELECT` queries in SQL.
